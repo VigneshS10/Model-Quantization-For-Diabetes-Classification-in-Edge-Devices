@@ -5,7 +5,7 @@
 
 Quantization for deep learning is the process of approximating a neural network that uses floating-point numbers by a neural network of low bit width numbers. This dramatically reduces both the memory requirement and computational cost of using neural networks.
 
-In this repository, I have implemented **static quantization** strategy for Alexnet, MobileNet and Resnet-50 and also have proven the benefits occuring from doing so by giving relevant statistics and evaluation metrics.
+In this repository, I have implemented **static quantization** strategy for Alexnet, MobileNet and Resnet-50 trained on a Retina based Diabetes Classification dataset and also have proven the benefits occuring from doing so by giving relevant statistics and evaluation metrics.
 
 ---
 
