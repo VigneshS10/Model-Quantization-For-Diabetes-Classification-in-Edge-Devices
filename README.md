@@ -41,10 +41,14 @@ From the statistics given below, my quantization strategy reduced the model size
 | Alexnet                     |   42.537    |90 MB      |37.94 ms/sample        |
 | **Quantized Alexnet**       |  **42.537** |**23.2 MB**| **29.65 ms/sample**   |
 
+---
+
 |            Model            |Top 1 Acc (%)| Model size| CPU Inference Latency |
 |-----------------------------|-----------  |-----------|-----------------------|
 | MobileNet                   |   58.46     |8.7 MB     |10.23 ms/sample        |
 | **Quantized MobileNet**     |  **58.41**  |**2.8 MB** | **6.27 ms/sample**    |
+
+---
 
 |            Model            |Top 1 Acc (%)| Model size| CPU Inference Latency |
 |-----------------------------|-----------  |-----------|-----------------------|
